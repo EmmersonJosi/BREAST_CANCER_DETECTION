@@ -1,6 +1,6 @@
-Project: Breastcancer detection using Machine Learning and Deep learning through binary classification
+**Project: Breastcancer detection using Machine Learning and Deep learning through binary classification**
 
-Business Understanding:
+**Business Understanding:**
 
 It is no secret that it's always better to find detect cancer early, when it is easier to treat and before it is big enough to feel or cause symptoms . Early breast cancer detection is crucial to save precious lives.
 
